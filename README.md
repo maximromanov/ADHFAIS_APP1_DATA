@@ -1,5 +1,3 @@
-# OpenITIngram2_data_25AH
+# ADHFAIS_APP1_DATA
 
-NgramReader Data (25AH)
-
-- repository with ngram data for the OpenITI corpus (OpenITI RELEASE ... [August 2022])
+Data for: ADHFAIS APP{ENDIX} 1: NgramReader, 2022 (OpenITI, Release ver. 2022.1.6)
